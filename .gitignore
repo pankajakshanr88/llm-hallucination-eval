@@ -1,0 +1,21 @@
+config.ini
+.env
+.env.local
+.env.*.local
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+.claude/
+CLAUDE.md
+project-plan.md
+conversation-summary-*.md
+evaluation-framework.md
+Document Assistant project plan
+Golden dataset
+reports/
